@@ -3,10 +3,7 @@ ATIVIDADE 5A04
 ENDPOINTS
 A API tem um total de 9 endpoints, sendo em volta principalmente do usuário - podendo cadastrar seu perfil, cursos e livros.
 
-O JSON para utilizar no Insomnia é este aqui -> 
-Para importar o JSON no Insomnia é só clicar na palavra "Insomnia" no canto superior esquerdo. Nesse dropdown é só clicar em "Import / Export > Import Data > From Url" e colocar o link acima v
-
-O url base da API é 
+O url base da API é https://lesson-5a04.herokuapp.com/
 
 Rotas que não precisam de autenticação
 
