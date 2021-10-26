@@ -6,6 +6,60 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "mia@gmail.com",
+      "password": "$2a$10$AM..4uCJbQpPMcFbdryPJ.tWlb/U1tkkA1XDjBX9lx7zJgJIZPM5W",
+      "name": "mia",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "name": "Águas de Primavera",
+      "author": "Ivan Turguêniev",
+      "category": "romance",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Fundação",
+      "author": "Isaac Asimov",
+      "category": "sci-fi",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "course": [
+    {
+      "name": "Kenzie Q1",
+      "finish": true,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Kenzie Q2",
+      "finish": false,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Kenzie Q3",
+      "finish": false,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Kenzie Q4",
+      "finish": false,
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Kenzie Q4",
+      "finish": false,
+      "userId": 2,
+      "id": 5
     }
   ]
 }
